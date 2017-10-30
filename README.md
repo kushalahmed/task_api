@@ -4,6 +4,9 @@ This project demonstrates how a Spring Boot application can be developed using N
 ## Tools and Versions
 Java 8, Maven 3.3.9, Spring Boot 1.5.8.RELEASE
 
+## Hosted at Heroku
+https://whispering-temple-67991.herokuapp.com
+
 ## REST APIs
 
 - GET /tasks/validateBrackets?input={brackets}
