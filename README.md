@@ -3,6 +3,7 @@
 - Validated data using spring boot annotation at value objects and entities.
 - Generated custom error messages if validation fails or an exception is thrown while processing the request.
 - Added sample unit tests at Controller, Service and Repository layers.
+- Added documentation both at class and method levels.
 
 ## Tools and Versions
 Java 8, Maven 3.3.9, Spring Boot 1.5.8.RELEASE
