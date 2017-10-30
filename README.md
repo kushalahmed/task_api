@@ -1,5 +1,8 @@
 # A Sample Spring Boot Application
-This project demonstrates how a Spring Boot application can be developed using N-tier architecture - Controller, Assembler/ValueObjects, Service, Repository and Entity layers. It also showcases how data validation can be performed, and how to generate custom error messages if validation fails or an exception is thrown.
+- Developed using N-tier architecture - Controller, Assembler/ValueObjects, Service, Repository and Entity layers.
+- Validated data using spring boot annotation at value objects and entities.
+- Generated custom error messages if validation fails or an exception is thrown while processing the request.
+- Added sample unit tests at Controller, Service and Repository layers.
 
 ## Tools and Versions
 Java 8, Maven 3.3.9, Spring Boot 1.5.8.RELEASE
