@@ -15,7 +15,7 @@ public class BracketService implements IBracketService {
     /**
      * It checks whether the given bracket string is balanced or not.
      *
-     * It iterate over the string, keeps pushing first bracket elements on to a stack, and keeps popping
+     * It iterates over the string, keeps pushing first bracket elements on to a stack, and keeps popping
      * if the other pair is encountered. After the push and pop operations, the stack must be empty.
      * @param   input   string of brackets
      * @return  true if the string of brackets is balanced, false otherwise
